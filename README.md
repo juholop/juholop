@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @juholop
+- 👀 I’m interested in changing careers
+- 🌱 I’m currently learning javasrcipt and web development
+- 💞️ I’m looking to collaborate on building simple online apps and web pages
+- 📫 How to reach me: twitter: juholop
